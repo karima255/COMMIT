@@ -1,0 +1,52 @@
+body, html{
+    margin: 0%;
+    height: 100%;
+}
+body{
+    background-image: url(ong2.jpeg);
+    background-size: cover;
+}
+
+   
+nav{
+    text-align: right;
+    
+}
+nav a{
+    background-color: rgb(124, 124, 106);
+    margin: 20px 10px;
+    font-size: 23px;
+}
+.main{
+    text-align: center;
+    margin-top: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgba(8, 8, 8, 0.747);
+    margin: 20px 40p;
+    
+}
+.div1{
+    text-align: left;
+}
+.main h1{
+    margin: 20px 40px ;
+}
+.tarif{
+    text-align: center;
+    background-color: rgba(180, 167, 177, 0.404);
+}
+
+.contact h1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.082);
+}
+.contact{
+    background-color: rgba(180, 167, 177, 0.404);
+    text-align: center;
+}
+ 
+
+
+div{
+    text-align: center;
+}
